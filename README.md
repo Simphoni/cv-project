@@ -12,8 +12,16 @@
 
 我们的代码参考了开源仓库的若干实现，在此记录并表示感谢：
 
+Train:
+ * Diffusers: https://github.com/huggingface/diffusers
+ * PEFT: https://github.com/huggingface/peft
+
 Eval: 
  * FID: https://github.com/mseitzer/pytorch-fid
  * Inception Score: https://github.com/sbarratt/inception-score-pytorch
  * Perceptual Similarity: https://github.com/richzhang/PerceptualSimilarity
  * CLIP Score: https://github.com/Taited/clip-score
+
+## 致谢
+
+衷心感谢老师和助教的辛勤付出！在课程和实验的过程中我收获良多。
